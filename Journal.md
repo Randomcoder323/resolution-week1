@@ -5,3 +5,4 @@ I read the guide and learned so much. I already knew how a resistor and LED work
 
 
 **Total time spent: 0.4h**
+
