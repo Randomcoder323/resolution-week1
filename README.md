@@ -6,7 +6,7 @@ This project is a circuit light that simulates the starting line for races. It h
 ## Video and demo
 https://is.gd/bTsWsl
 
-
+![ GIF](https://github.com/Randomcoder323/resolution-week1/blob/main/giff.gif?raw=true)
 
 ## How does this work? 
 
